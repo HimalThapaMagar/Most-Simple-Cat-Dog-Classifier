@@ -70,7 +70,7 @@ class _MyAppState extends State<MyApp> {
     Tflite.close();
   }
 
-  // This widget is the root of your application.
+  // This widget is the root of our application.
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
